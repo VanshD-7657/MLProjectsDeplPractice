@@ -1,0 +1,1 @@
+sage_detail(error,error_detail)
