@@ -2,7 +2,7 @@
 
 This repository contains industry-grade, end-to-end Machine Learning & Deep Learning projects, developed with a complete workflow starting from data collection to model deployment.
 
-The aim of this repo is to demonstrate how real-world AI projects are built and deployed in production-ready pipelines.
+The aim of this repo is to demonstrate how real-world ML OR DL projects are built and deployed in production-ready pipelines.
 
 ## 📌 Repository Structure
 ```
